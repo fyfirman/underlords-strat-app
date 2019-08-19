@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">Underlords Strategy</string>
+  <string name="title_activity_main">Underlords Strategy</string>
+  <string name="navigation_drawer_open">Open navigation drawer</string>
+  <string name="navigation_drawer_close">Close navigation drawer</string>
+
+  <string name="menu_hero">Hero</string>
+  <string name="menu_guide">Guide</string>
+  <string name="menu_contact">Contact Us</string>
+
+  <string name="author_name">Firmansyah Yanuar</string>
+  <string name="author_email">fyfirman@gmail.com</string>
+</resources>
